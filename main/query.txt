@@ -1,0 +1,11 @@
+() <- denotes a vertex
+
+[] <- denotes an edge
+
+{} <- denotes attributes map
+
+< > <- denotes class
+
+e = [owns] FROM ClassName{name: "someName"} TO OtherClass;
+yield e 
+
